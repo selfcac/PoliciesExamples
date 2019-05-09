@@ -1,0 +1,2608 @@
+{
+  "proxyMode": 0,
+  "BlockedPhrases": [
+    {
+      "Scope": 2,
+      "Type": 1,
+      "Phrase": "hentai"
+    },
+    {
+      "Scope": 2,
+      "Type": 1,
+      "Phrase": "bdsm"
+    },
+    {
+      "Scope": 2,
+      "Type": 2,
+      "Phrase": "femdom"
+    },
+    {
+      "Scope": 2,
+      "Type": 1,
+      "Phrase": "pornhub"
+    },
+    {
+      "Scope": 2,
+      "Type": 0,
+      "Phrase": "xhamster"
+    },
+    {
+      "Scope": 2,
+      "Type": 1,
+      "Phrase": "pornado"
+    },
+    {
+      "Scope": 0,
+      "Type": 3,
+      "Phrase": "^(?=.*search)(?!.*google\\.com).*\\/search.*[\\?&]q\\="
+    },
+    {
+      "Scope": 0,
+      "Type": 3,
+      "Phrase": "\\/results.*[\\?&]search_query\\="
+    },
+    {
+      "Scope": 2,
+      "Type": 1,
+      "Phrase": "bikini"
+    },
+    {
+      "Scope": 0,
+      "Type": 1,
+      "Phrase": "swimsuit"
+    },
+    {
+      "Scope": 0,
+      "Type": 3,
+      "Phrase": "(facebook\\.).*\\/search(\\/){0,1}"
+    },
+    {
+      "Scope": 0,
+      "Type": 2,
+      "Phrase": "latex"
+    },
+    {
+      "Scope": 0,
+      "Type": 3,
+      "Phrase": "google\\..*tbm=vid"
+    },
+    {
+      "Scope": 0,
+      "Type": 3,
+      "Phrase": "google\\..*tbm=isch"
+    },
+    {
+      "Scope": 0,
+      "Type": 1,
+      "Phrase": "porn"
+    },
+    {
+      "Scope": 1,
+      "Type": 0,
+      "Phrase": "You must be 18+ to view this community"
+    }
+  ],
+  "created": "2019-04-29T21:48:26.7806245+03:00",
+  "AllowedDomains": [
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".jtvnw.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".ttvnw.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".ynet.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".facebook.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".thehackernews.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".harel-group.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".rotter.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".hostinger.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gstatic.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".google.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".fbsbx.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".googleadservices.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".google-analytics.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".doubleclick.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".rotter.name",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".domains4bitcoins.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".bitnewsbot.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".lithium.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".microsoft.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".firefox.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".bing.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".powerbi.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".msn.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".live.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".googlevideo.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".s-microsoft.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".nytimes.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".disqus.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".mozilla.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".hotjar.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".akamaized.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".google.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".twitter.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".ycombinator.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".office.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".youtube.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".intel.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".adobe.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".twitch.tv",
+      "AllowEP": [],
+      "BlockEP": [
+        {
+          "Type": 0,
+          "EpFormat": "rajjpatel"
+        }
+      ]
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".adobess.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".antipope.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".animeultima.eu",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".kickassanime.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".animo-pace-stream.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".adobesc.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".adobelogin.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".office365.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".skype.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".azure.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".microsoftonline.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".timeanddate.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".lenovo.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".geektime.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".namecheap.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".blogger.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".github.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".windows.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".adobe.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".nvidia.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".twitchcdn.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".githubusercontent.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".ytimg.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".yoyo.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".azure.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".adobeoobe.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "geektimecoil.api.oneall.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gitbook.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "bit.ly",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".themarker.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".polyfill.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".haaretz.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".bbc.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".maariv.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".doub.ly",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".googletagservices.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".outbrain.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".reddit.com",
+      "AllowEP": [],
+      "BlockEP": [
+        {
+          "Type": 0,
+          "EpFormat": "r/shinyporn"
+        }
+      ]
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".mako.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gadgety.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".imgur.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".yad2.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".winwin.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".sta2sim.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".globes.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".discountbank.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".superuser.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".akamaihd.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".steampowered.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".akamaihd.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".stackoverflow.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".redditmedia.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".yoniwas.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".amazon.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".outbrainimg.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".ad.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".komo.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".homeless.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".jgive.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".office.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".vimeo.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".calcalist.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".github.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".leumi.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".w3schools.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".doodle.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".azurewebsites.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".twinge.tv",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".kickstarter.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".seleniumhq.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".mitmproxy.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".amazonaws.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".playbuzz.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".streamlabs.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".ext-twitch.tv",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gvt2.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".shareplus.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "yad2.nanorep.co",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "yad2.cdnwiz.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".xboxlive.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".bootstrapcdn.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".bbc.co.uk",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "shortdomainsearch.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".godaddy.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".liveperson.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".wiktionary.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".vimeocdn.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "screenster.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "youtu.be",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "katex.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".w3.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "www.hon.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".manypixels.co",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".linkedin.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".pushwoosh.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".permutive.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".interload.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".israelhayom.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".trello.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gov.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".giphy.com",
+      "AllowEP": [],
+      "BlockEP": [
+        {
+          "Type": 0,
+          "EpFormat": "/search"
+        },
+        {
+          "Type": 0,
+          "EpFormat": "/explore"
+        },
+        {
+          "Type": 0,
+          "EpFormat": "/stories"
+        }
+      ]
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".apple.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".banggood.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gitlab.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".elastic.co",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".crunchbase.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".streamelements.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".nagishly.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".googleapps.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".nano-editor.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".arxiv.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".quora.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".takdin.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".negishim.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".ac.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "mathigon.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "jaiminisbox.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gfycat.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".elstc.co",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".atlassian.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": true,
+      "Type": 1,
+      "DomainFormat": ".pornhub.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": true,
+      "Type": 1,
+      "DomainFormat": ".exhentai.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".invisionapp.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gitlab.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".morfix.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".whatsapp.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".cloudfront.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".realtimeboard.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".awwapp.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".visualstudio.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".wikipedia.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".whatsapp.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".medium.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": true,
+      "Type": 1,
+      "DomainFormat": ".e-hentai.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".steamcommunity.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": true,
+      "Type": 1,
+      "DomainFormat": ".pornado.co",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": true,
+      "Type": 1,
+      "DomainFormat": ".xhamster.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".msedge.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".publicdomainvectors.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".flaticon.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": true,
+      "Type": 1,
+      "DomainFormat": ".xhamsterpremium.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".material.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".shutterstock.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".designbyhumans.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".amazonpay.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".paypal.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".livestreamfails.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".uber.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".walmart.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".amazon-adsystem.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".codepen.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".autodesk.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".grabcad.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".behance.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".ampproject.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".googlesyndication.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".animeultima.ch",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".nikitavoloboev.xyz",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".preloaders.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".zendesk.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".bizportal.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".msftconnecttest.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".dailywire.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".hostg.xyz",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".redditstatic.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "nir-oz.blogspot.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".booking.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".intercom.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".dlvr1.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".embedly.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".bankleumi.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".easylist.to",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": true,
+      "Type": 0,
+      "DomainFormat": "secure.fanboy.co.nz",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".adblockplus.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "easylist.to",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "accessibeapp.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".apester.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": true,
+      "Type": 1,
+      "DomainFormat": ".xhamsterlive.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".mixpanel.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".observablehq.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".jsdelivr.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".wikimedia.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".zoom.us",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".getvoip.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".windows.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".myfitnesspal.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "static.vecteezy.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".cgtrader.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".zdassets.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".jsfiddle.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".readthedocs.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".adnxs.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".omtrdc.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".awsstatic.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".googlecommerce.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".slack.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".qprivacy.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".draw.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".telebank.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".appexnw.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".adoric-ads.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".mktoresp.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": true,
+      "Type": 1,
+      "DomainFormat": ".gotporn.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".trustarc.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".truste.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gitlab.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".azureedge.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".intoli.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".jeeng.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".zeplin.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".ziteboard.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".urbandictionary.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".softwareishard.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".blazermagazine.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".imageshack.us",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".wordpress.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".notepad-plus-plus.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".freepik.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".vectorstock.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".company-target.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".ggpht.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".mysupermarket.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".compendium.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".citi.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".clalit.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".clalit.org.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".wolframalpha.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".appspot.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".inn.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".googleusercontent.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".nirsoft.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".images-amazon.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "i.redd.it",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".stripe.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".kissmanga.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".regex101.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".fbcdn.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".googleapis.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".msftauth.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".wsimg.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".msocdn.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".bankhapoalim.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".zap.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".goldline.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".facebook.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".pogdesign.co.uk",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".dailynow.co",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".twitchsvc.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "streamable.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".jetbrains.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".daf-yomi.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".macromedia.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".geforce.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".hpconnected.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".android.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".chromium.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".hidabroot.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".super-pharm.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".xda-developers.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gmail.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".sfx.ms",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".dailymotion.com",
+      "AllowEP": [
+        {
+          "Type": 1,
+          "EpFormat": "/embed/video/"
+        }
+      ],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".kipa.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".org.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".backblaze.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".washingtonpost.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".adobeccstatic.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".jsonnet.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".nagich.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".tfilah.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".hp.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gitscrum.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".googlesource.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".bhol.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".kosharot.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "making-il.blogspot.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".ultimaker.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".pcgamer.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": true,
+      "Type": 0,
+      "DomainFormat": "tmi.maariv.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".windowsupdate.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".oracle.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".digicert.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".chabad.info",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "imagizer.imageshack.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".streamable.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".githubassets.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".cloudflare.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".edgesuite.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".symantec.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".symcb.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".1click2buy.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".ss2.us",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".sourceforge.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".pcmag.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gravatar.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".redd.it",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".embed-cdn.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".enable.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".stackexchange.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".media-amazon.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".jquery.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".cdnjs.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".entrust.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".usertrust.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".comodoca.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".globalsign.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".trust-provider.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".siz.co.il",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".gvt1.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 0,
+      "DomainFormat": "behindthepixels.io",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": true,
+      "Type": 1,
+      "DomainFormat": ".deviantart.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".sstatic.net",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".verisign.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".digital.gov",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": true,
+      "Type": 1,
+      "DomainFormat": ".deviantart.com",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".pypi.org",
+      "AllowEP": [],
+      "BlockEP": []
+    },
+    {
+      "DomainBlocked": false,
+      "Type": 1,
+      "DomainFormat": ".nextcloud.org",
+      "AllowEP": [],
+      "BlockEP": []
+    }
+  ]
+}
